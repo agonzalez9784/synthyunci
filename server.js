@@ -90,4 +90,4 @@ client.on('messageCreate', async message => {
             }
         }
 });
-client.login("OTU1NTU1ODIxODI2MjMyMzQw.YjjYtQ.FBDWEGswvtxfwTDoCXimWkgoLOY");
+client.login();

@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.8.0",
+    "discord": "^0.8.2",
+    "discord.js": "^13.6.0",
+    "ffmpeg-static": "^4.4.1",
+    "libsodium-wrappers": "^0.7.9",
+    "ytdl-core": "^4.11.0"
+  }
+}

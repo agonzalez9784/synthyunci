@@ -11,7 +11,7 @@ On linux, you can do:
 For other distributions, you can look them up.
 
 Here are the following packages you will need to run this:
-`npm install @discordjs/voice
+`npm install @discordjs/voice \n
 npm install discord
 npm install discord.js
 npm install ffmpeg-static
